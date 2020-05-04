@@ -24,7 +24,7 @@ func main() {
 		fmt.Printf("tick at %v", t)
 	})
 
-    time.Sleep(35 * time.Millisecond)
+    	time.Sleep(35 * time.Millisecond)
 	ticker.Stop()
 	time.Sleep(15 * time.Millisecond)
 }
