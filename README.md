@@ -16,7 +16,7 @@ import (
 	"fmt"
 	"time"
 
-    "github/knwoop/ticker"
+	"github/knwoop/ticker"
 )
 
 func main() {
